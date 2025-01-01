@@ -68,6 +68,3 @@ Below are some of the major dependencies required for this project (full list av
 ## Acknowledgements
 - This project uses open-source machine learning tools and libraries such as Scikit-learn and TensorFlow.
 
-## License
-This project is licensed under the MIT License.
-
