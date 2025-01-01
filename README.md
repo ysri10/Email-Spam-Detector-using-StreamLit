@@ -1,4 +1,4 @@
-#SMS Spam Detection Web Application
+# SMS Spam Detection Web Application
 
 ## Description
 This project is a web-based SMS Spam Detection application built using Flask for the backend. It utilizes machine learning models to classify incoming text messages as either spam or not spam. The application employs a pre-trained model saved as `model.pkl` and a TF-IDF vectorizer saved as `vectorizer.pkl` to process and predict SMS texts.
